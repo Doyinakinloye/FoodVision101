@@ -32,7 +32,7 @@ Hyperparameters
 
 3). Training
 
-- Used PyTorch training loops with optimizer (Adam) and loss function (CrossEntropy).
+- Used Tensorflow training loops with optimizer (Adam) and loss function (CrossEntropy).
 
 4). Evaluation
 
