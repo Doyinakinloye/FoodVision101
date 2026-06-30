@@ -44,6 +44,8 @@ Hyperparameters
 
 - Could not train for extended epochs due to hardware and runtime constraints.
 
+Link to colab Notebook: https://colab.research.google.com/drive/1ujT5ml687OqfyZUD-Dijn7Pc8gokRndc#scrollTo=fRJaFVhVm6p1
+
 Results are promising but leave room for improvement with:
 
 - Longer training schedules.
